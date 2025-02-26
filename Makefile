@@ -1,0 +1,2 @@
+documentation:
+			cd docs && doxygen 

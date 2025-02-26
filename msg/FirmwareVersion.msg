@@ -1,0 +1,4 @@
+string firmwareVersion
+string icFirmwareVersion
+string icProductVersion
+string eepromVersion
